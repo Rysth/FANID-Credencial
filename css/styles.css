@@ -36,7 +36,6 @@ body {
 svg,
 img {
   max-width: 100%;
-  height: 100%;
 }
 
 .container {
@@ -79,6 +78,7 @@ img {
 
 .card-body {
   padding: 1.25em;
+  max-height: 30em;
 }
 
 .card-content {
