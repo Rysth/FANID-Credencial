@@ -78,7 +78,7 @@ img {
 
 .card-body {
   padding: 1.25em;
-  max-height: 30em;
+  flex: unset;
 }
 
 .card-content {
